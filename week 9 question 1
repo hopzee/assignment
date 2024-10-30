@@ -1,0 +1,5 @@
+numbers=[1, 2, 3, 6, 7, 9]
+n= tuple(numbers)
+print(f"   list {numbers} to tuple {n}")
+print(numbers[0])
+print(numbers[5])
