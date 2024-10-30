@@ -1,0 +1,2 @@
+cars={"toyota":"camry", "honda":"bmw", "benz":"tesla"}
+print(f" this is {cars["toyota"]}")
