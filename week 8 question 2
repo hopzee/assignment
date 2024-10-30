@@ -1,0 +1,7 @@
+numbers= [3,6,1,9,2]
+# adding 7 to the end
+numbers.append(7)
+print (f"added value: {numbers}")
+# sortin the numbers in ascending order
+numbers.sort()
+print(f"sorted value: {numbers}")
