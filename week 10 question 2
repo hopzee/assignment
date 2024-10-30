@@ -1,0 +1,7 @@
+NUM=int(input ("enter your value "))
+F=1
+Q=1
+while Q <=NUM:
+     F *= Q
+     Q += 1
+print(f" the factorial of of {NUM} is {F}")
